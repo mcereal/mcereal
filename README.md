@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a portfolio site
+- 🔭 I’m currently working on a fishing species tracker
 - 🌱 I’m currently learning Full Stack Developmnet through UNC Chapel Hill
 - 👯 I’m looking to collaborate on ... Anything!
 - 💬 Ask me about my fat cat
