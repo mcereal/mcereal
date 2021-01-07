@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a fishing species tracker
-- 🌱 I’m currently learning Full Stack Developmnet through UNC Chapel Hill
+- 🔭 I’m currently working on a vehicle inspection tool
+- 🌱 I’m currently learning Full Stack Development through UNC Chapel Hill
 - 👯 I’m looking to collaborate on ... Anything!
 - 💬 Ask me about my fat cat
 - 📫 How to reach me: Contact info to the left 
