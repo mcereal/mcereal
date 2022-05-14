@@ -5,6 +5,6 @@
 - 🔭 Learning more Go things
 - 👯 I’m looking to collaborate on ... Anything!
 - 💬 Ask me about my fat cat
-- 📫 How to reach me: Contact info to the left
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/michaelpbcurtis/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I would love to live off grid!
