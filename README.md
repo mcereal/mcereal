@@ -9,9 +9,9 @@
 - 🔭 Pushing the boundaries with Go and exploring new tech horizons.
 - 🌱 I’m learning the ropes of entrepreneurship and company building.
 - 👯 I’m looking to collaborate on innovative projects that could benefit from my diverse skill set.
-- 💬 Ask me about tech startups, working at IBM, and of course, my fat cat!
+- 💬 Ask me about my time at IBM, my entrepreneurial journey, or anything else!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michaelpbcurtis/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Dreaming of a self-sufficient life, maybe that's my next big project?
+- ⚡ Fun fact: I would love to live completely off-grid one day.
 
 Feel free to connect with me if you're curious about what I'm building with Sailfin or if you think there's an interesting opportunity for us to work together. I'm all ears for a great conversation or collaboration.
