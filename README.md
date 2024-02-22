@@ -4,7 +4,7 @@
 
 🚀 I'm currently on an entrepreneurial journey, building Sailfin!
 
-🧑‍💻 By day, I'm fine-tuning my skills at IBM, where I'm embracing the complexities of technology to create impactful solutions.
+🧑‍💻 I'm fine-tuning my skills at Sailfin, where I'm embracing the complexities of technology to create impactful solutions.
 
 - 🔭 Pushing the boundaries with Go and exploring new tech horizons.
 - 🌱 I’m learning the ropes of entrepreneurship and company building.
