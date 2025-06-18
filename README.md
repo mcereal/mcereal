@@ -14,4 +14,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I would love to live completely off-grid one day.
 
-Feel free to connect with me if you're curious about what I'm building with Sailfin or if you think there's an interesting opportunity for us to work together. I'm all ears for a great conversation or collaboration.
+Feel free to connect with me if you're curious about what I'm building with MacStadium or if you think there's an interesting opportunity for us to work together. I'm all ears for a great conversation or collaboration.
